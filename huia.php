@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-<h1>твой рот ебал!</h1>
+<h1>аниме сила</h1>
 </body>
 </html>
