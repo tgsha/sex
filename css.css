@@ -1,0 +1,16 @@
+*{margin:0;
+padding:0;}
+a{text-decoration: none;}
+
+
+body{
+    background:url(sar.jpg);background-repeat:no-repeat;background-size: 100%; 
+}
+
+h1{text-align:center;
+margin-top:200px;
+font-size:100px;
+transition:0.5s;
+}
+h1:hover{color: green;transform: scale(1.5);transform: skew(180deg);}
+
